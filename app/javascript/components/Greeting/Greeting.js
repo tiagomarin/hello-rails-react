@@ -3,7 +3,11 @@ import React from 'react';
 
 function Greeting() {
   return (
-    <p className="greeting">my greeting</p>
+    <main className="background">
+      <h1 className="my-heading">Hello React Rails!</h1>
+      <h2> this is one of my greetings:</h2>
+      <p className="greeting">new routing test </p>
+    </main>
   );
 }
 

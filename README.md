@@ -13,7 +13,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -84,8 +83,7 @@ Clone this repository to your desired folder:
 ### Install
 
 Install this project with:
-
-<!--
+```sh
   cd my-project
   bundle install
 ```
@@ -104,14 +102,6 @@ To run tests, run the following command:
 
 ```sh
   bin/rails test
-```
-
-### Deployment
-
-You can deploy this project using:
-
-Example:
-```sh
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

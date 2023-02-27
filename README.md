@@ -52,7 +52,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 - **Displays a ramdom greeting message**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -60,7 +59,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 not available yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

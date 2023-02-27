@@ -21,7 +21,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Rails React <a name="about-project"></a>
 
 **Hello Rails React** is a project to practice purposes only.
 
